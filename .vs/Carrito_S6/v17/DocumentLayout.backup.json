@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Carrito_S6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B8254D-DBBE-425E-95D9-2CD404500D57}|Carrito_S6\\Carrito_S6.csproj|c:\\users\\asus\\source\\repos\\carrito_s6\\carrito_s6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B8254D-DBBE-425E-95D9-2CD404500D57}|Carrito_S6\\Carrito_S6.csproj|solutionrelative:carrito_s6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Carrito_S6\\Carrito_S6\\Program.cs",
+              "RelativeDocumentMoniker": "Carrito_S6\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Carrito_S6\\Carrito_S6\\Program.cs",
+              "RelativeToolTip": "Carrito_S6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:25:41.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
