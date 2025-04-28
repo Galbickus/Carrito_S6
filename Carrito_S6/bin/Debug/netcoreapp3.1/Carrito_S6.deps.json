@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Carrito_S6/1.0.0": {
+        "runtime": {
+          "Carrito_S6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carrito_S6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

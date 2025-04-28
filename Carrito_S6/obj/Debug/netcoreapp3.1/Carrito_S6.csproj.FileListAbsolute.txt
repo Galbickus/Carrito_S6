@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\obj\Debug\netcoreapp3.1\Carrito_S6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\obj\Debug\netcoreapp3.1\Carrito_S6.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\obj\Debug\netcoreapp3.1\Carrito_S6.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\obj\Debug\netcoreapp3.1\Carrito_S6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\obj\Debug\netcoreapp3.1\Carrito_S6.sourcelink.json
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\bin\Debug\netcoreapp3.1\Carrito_S6.exe
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\bin\Debug\netcoreapp3.1\Carrito_S6.deps.json
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\bin\Debug\netcoreapp3.1\Carrito_S6.runtimeconfig.json
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\bin\Debug\netcoreapp3.1\Carrito_S6.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\bin\Debug\netcoreapp3.1\Carrito_S6.dll
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\bin\Debug\netcoreapp3.1\Carrito_S6.pdb
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\obj\Debug\netcoreapp3.1\Carrito_S6.dll
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\obj\Debug\netcoreapp3.1\Carrito_S6.pdb
+C:\Users\ASUS\source\repos\Carrito_S6\Carrito_S6\obj\Debug\netcoreapp3.1\Carrito_S6.genruntimeconfig.cache
